@@ -1,1 +1,1 @@
-# ZerodhaGTTFree
+# ZerodhaFreeGTT
